@@ -1,0 +1,1 @@
+This is a Machine Learning Repository which focuses on Building Machine Learning Models from scratch using the maths behind it and also it focuses on implementing the same concepts using the sklearn Library  
